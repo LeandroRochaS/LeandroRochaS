@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Rocha Santos</h1>
 <h3 align="center">Developer Back-end and Front-end</h3>
 
-<img align="right" alt="coding" width="480" height="280" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="object-fit: contain;">
+<img align="right" alt="coding" max-width="450" height="280" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="object-fit: contain;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
