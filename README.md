@@ -1,32 +1,57 @@
-<h1 align="center">Hi 👋, I'm Leandro Rocha Santos</h1>
-<h3 align="center">Developer Back-end and Front-end</h3>
+# Olá, eu sou Leandro Rocha 👋
 
-<img align="right" alt="coding" max-width="450" height="280" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="object-fit: contain;">
+<div align="left">
+  <strong>Desenvolvedor Full-Stack .NET | Especialista em ERP & Regras de Negócio</strong>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/leandrorocha-" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandrorocha-/" height="30" width="40" /></a>
-</p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p>
+Sou um desenvolvedor focado no ecossistema **Microsoft (.NET)** com experiência sólida em sistemas de alta complexidade. Atualmente, trabalho na sustentação e evolução de **ERPs para gestão pública**, aplicando práticas modernas de engenharia de software para garantir escalabilidade e manutenibilidade.
 
+Minha atuação vai além do código: foco na **arquitetura da solução**, performance de banco de dados e na aplicação de padrões que resolvem problemas reais de negócio.
 
+- 🔭 **Atualmente trabalhando em:** Refatoração de sistemas legados e desenvolvimento de novas features em C#.
+- 💡 **Interesses:** Clean Architecture, Domain-Driven Design (DDD), SQL Performance e Inteligência Artificial (Python).
+- 🌱 **Estudando:** Integração de IA em aplicações corporativas e arquitetura de microsserviços.
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrorochas&show_icons=true&locale=en&layout=compact" alt="leandrorochas" /></p>
+### 🛠️ Tech Stack & Ferramentas
 
+**Core:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
 
+**Outras Tecnologias & Conceitos:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</div>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrorochas&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrorochas&show_icons=true&locale=pt-br&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 📫 Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/leandrorocha-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:lerocha644@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
