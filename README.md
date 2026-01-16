@@ -36,15 +36,6 @@ Minha atuação vai além do código: foco na **arquitetura da solução**, perf
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrorochas&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrorochas&show_icons=true&locale=pt-br&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-
 ### 📫 Contato
 
 <div align="left">
