@@ -1,12 +1,12 @@
 # Olá, eu sou Leandro Rocha 👋
 
 <div align="left">
-  <strong>Desenvolvedor Full-Stack .NET | Especialista em ERP & Regras de Negócio</strong>
+  <strong>Desenvolvedor Full-Stack .NET
 </div>
 
 <br />
 
-Sou um desenvolvedor focado no ecossistema **Microsoft (.NET)** com experiência sólida em sistemas de alta complexidade. Atualmente, trabalho na sustentação e evolução de **ERPs para gestão pública**, aplicando práticas modernas de engenharia de software para garantir escalabilidade e manutenibilidade.
+Sou um desenvolvedor focado no ecossistema **Microsoft (.NET)** com experiência sólida em sistemas de alta complexidade. Atualmente, trabalho na sustentação e evolução de **ERPs**, aplicando práticas modernas de engenharia de software para garantir escalabilidade e manutenibilidade.
 
 Minha atuação vai além do código: foco na **arquitetura da solução**, performance de banco de dados e na aplicação de padrões que resolvem problemas reais de negócio.
 
