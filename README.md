@@ -9,8 +9,8 @@
 Sou um Desenvolvedor de Software do Brasil 💚, tenho 20 anos 😁 e atuo profissionalmente há mais de um ano e meio 🧐.
 Movido a muito café ☕, corredor de rua nas horas vagas 🏃‍♂️, fã de One Piece 🏴‍☠️.
 
-[cite_start]💫 Sempre focado em resolver desafios técnicos complexos através de arquitetura de software robusta.
-[cite_start]✔️ Experiência na modernização de ERPs críticos via Clean Architecture e DDD, transformando sistemas legados em soluções escaláveis e de alta performance.
+💫 Sempre focado em resolver desafios técnicos complexos através de arquitetura de software robusta.
+✔️ Experiência na modernização de ERPs críticos via Clean Architecture e DDD, transformando sistemas legados em soluções escaláveis e de alta performance.
 👽 Também surfando nas ondas do ecossistema **Java** e explorando integrações com **Inteligência Artificial**.
 
 - 🔭 **Atualmente trabalhando em:** Refatoração de sistemas legados de alta complexidade e construindo ferramentas de automação de tarefas.
