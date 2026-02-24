@@ -1,18 +1,21 @@
 # Olá, eu sou Leandro Rocha 👋
 
 <div align="left">
-  <strong>Desenvolvedor Full-Stack .NET
+  <strong>Desenvolvedor de Software (C# | Java)</strong>
 </div>
 
 <br />
 
-Sou um desenvolvedor focado no ecossistema **Microsoft (.NET)** com experiência sólida em sistemas de alta complexidade. Atualmente, trabalho na sustentação e evolução de **ERPs**, aplicando práticas modernas de engenharia de software para garantir escalabilidade e manutenibilidade.
+Sou um Desenvolvedor de Software do Brasil 💚, tenho 20 anos 😁 e atuo profissionalmente há mais de um ano e meio 🧐.
+Movido a muito café ☕ (no mínimo uns 700ml por dia!), corredor de rua nas horas vagas 🏃‍♂️, fã de One Piece 🏴‍☠️ e ouvinte assíduo de Drill/Trap BR 🎧.
 
-Minha atuação vai além do código: foco na **arquitetura da solução**, performance de banco de dados e na aplicação de padrões que resolvem problemas reais de negócio.
+[cite_start]💫 Sempre focado em resolver desafios técnicos complexos através de arquitetura de software robusta[cite: 8].
+[cite_start]✔️ Experiência na modernização de ERPs críticos via Clean Architecture e DDD, transformando sistemas legados em soluções escaláveis e de alta performance[cite: 9].
+👽 Também surfando nas ondas do ecossistema **Java** e explorando integrações com **Inteligência Artificial**.
 
-- 🔭 **Atualmente trabalhando em:** Refatoração de sistemas legados e desenvolvimento de novas features em C#.
-- 💡 **Interesses:** Clean Architecture, Domain-Driven Design (DDD), SQL Performance e Inteligência Artificial (Python).
-- 🌱 **Estudando:** Integração de IA em aplicações corporativas e arquitetura de microsserviços.
+- 🔭 **Atualmente trabalhando em:** Refatoração de sistemas legados de alta complexidade e construindo ferramentas de automação de tarefas.
+- 💡 **Interesses:** Clean Architecture, Domain-Driven Design (DDD), SQL Performance, Web3/Blockchain e IA.
+- 🌱 **Estudando:** Aprofundamento em Java (Bootcamp Banco Pan) e arquitetura corporativa.
 
 ---
 
@@ -22,16 +25,17 @@ Minha atuação vai além do código: foco na **arquitetura da solução**, perf
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 **Outras Tecnologias & Conceitos:**
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
 <br/>
