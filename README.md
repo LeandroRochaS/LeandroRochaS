@@ -15,7 +15,7 @@ Movido a muito café ☕, corredor de rua nas horas vagas 🏃‍♂️, fã de 
 
 - 🔭 **Atualmente trabalhando em:** Refatoração de sistemas legados de alta complexidade e construindo ferramentas de automação de tarefas.
 - 💡 **Interesses:** Clean Architecture, Domain-Driven Design (DDD), SQL Performance, Web3/Blockchain e IA.
-- 🌱 **Estudando:** Aprofundamento em Java (Bootcamp Banco Pan) e arquitetura corporativa.
+- 🌱 **Estudando:** Aprofundamento em micro serviços e arquitetura de software.
 
 ---
 
