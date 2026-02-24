@@ -29,7 +29,8 @@ Movido a muito café ☕, corredor de rua nas horas vagas 🏃‍♂️, fã de 
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
-
+<div style="display: inline_block"><br>
+  
 **Outras Tecnologias & Conceitos:**
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
